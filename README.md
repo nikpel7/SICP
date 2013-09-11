@@ -1,4 +1,4 @@
-SCIP
+SICP
 ====
 
 First Github repository.
